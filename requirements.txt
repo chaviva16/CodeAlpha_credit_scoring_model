@@ -3,3 +3,7 @@ scikit-learn
 lightgbm
 xgboost
 joblib
+pandas
+numpy
+matplotlib
+seaborn
